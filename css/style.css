@@ -45,3 +45,22 @@
 .column {
     width: 25%;
 }
+
+.img {
+    height: 200px;
+    width: 300px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.graphic {
+    background-image: url(../img/graph.jpg);
+}
+
+.white-text {
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+}
