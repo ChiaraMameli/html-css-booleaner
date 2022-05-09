@@ -1,7 +1,29 @@
+* {
+    margin: 0;
+}
+
+.container {
+    width: 1080px;
+    background-color: white;
+    margin: 0 auto;
+}
+
 .grey-text {
     color: grey;
 }
 
 .blue-text {
     color: blue;
+}
+
+.pics {
+    margin: 0;
+}
+
+.layout {
+    margin-top: 20px;
+}
+
+.highlight {
+    background-color: yellow;
 }
